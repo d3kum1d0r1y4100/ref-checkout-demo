@@ -1,0 +1,8 @@
+{
+  "name": "triage-test-ref-only",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo building",
+    "test": "echo testing"
+  }
+}
