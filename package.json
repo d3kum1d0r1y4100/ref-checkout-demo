@@ -1,5 +1,5 @@
 {
-  "name": "triage-test-ref-only",
+  "name": "ref-checkout-demo",
   "version": "1.0.0",
   "scripts": {
     "build": "echo building",
